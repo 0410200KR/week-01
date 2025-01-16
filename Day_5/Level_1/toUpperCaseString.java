@@ -46,10 +46,10 @@ class toUpperCaseString{
 	 println(ust2);
 	 
 	 if(compareString(ust1,ust2)){
-	 System.out.println("both uppper case string are same");
+	 System.out.println("both upper case string are same");
 	 }
 	 else{
-	 	 System.out.println("both uppper case string are not same");
+	 	 System.out.println("both upper case string are not same");
 
 	 }
 	 

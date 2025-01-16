@@ -3,13 +3,7 @@
 class NullPointerExceptionDemo {   
    public static void generateNullPointerException() {
         String k = null;
-		// This will cause a NullPointerException
-        
-    
-    
-    // Method to handle NullPointerException
-	
-   
+		
         try {
 			
             System.out.println(k.length());
